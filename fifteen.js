@@ -1,3 +1,7 @@
+    /*
+    	student name: damian graham
+    	student ID: 620053878
+    */
      var puzz;
         var topIn=0;
         var leftIn=0;
